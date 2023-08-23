@@ -66,7 +66,7 @@ int main(){
     
     
 
-    cout<<"Enter first string:";//abcbdab
+    cout<<"Enter first string:";
     cin>>&x[1];
     cout<<"Enter second string:";//bdcaba
     cin>>&y[1];
